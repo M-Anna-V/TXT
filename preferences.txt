@@ -1,0 +1,5 @@
+movie: Titanic
+TV-series: Big bang theory
+favourite meal: mashed potato&roasted pork
+favourite season: winter
+dream destination: Brasil

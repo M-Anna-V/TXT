@@ -1,0 +1,10 @@
+skill1: Git, Git Bash, Git Hub
+skill2: HTML/CSS
+skill3: Postman
+skill4: Javascript
+skill5: Devtools
+skill6: SQL
+skill7: Charles/Fidler
+skill8: Mobile apps testing
+skill9: JMetr
+skill10: Bugtracking systems
