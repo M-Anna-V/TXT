@@ -1,0 +1,5 @@
+name Мартюшева Анна
+age-40
+pets number - 1
+excpected salary - 1000
+
