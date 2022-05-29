@@ -1,0 +1,13 @@
+Bug_id: 2
+Title: “Add widget” button function is not working on device
+Severity: blocker 
+Priority: high
+Environment: 
+Xiaomi Redmi Note 8 Pro, android 10 QP1A 12.0.8 MIUI  global 12.0.8.0
+Precondition: clear the app from running
+STR: 
+1)Open app
+2)Click “Add Widget” button
+AR: button design changes on tap, but button function is not working, widget is not created on any page
+ER: Widget creation window appears/widget created
+Attachments: screenshot1
